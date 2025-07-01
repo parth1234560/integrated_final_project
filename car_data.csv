@@ -1,0 +1,249 @@
+Brand,Car Name,Price,Rating,Safety,Mileage,Power (BHP)
+Maruti Suzuki,Maruti Brezza,Rs. 8.69 Lakh,4.5/5,,17-25 kmpl,87-102 bhp
+Maruti Suzuki,Maruti Fronx,Rs. 7.54 Lakh,4.6/5,,20-28 kmpl,76-99 bhp
+Maruti Suzuki,Maruti Swift,Rs. 6.49 Lakh,4.6/5,,24-32 kmpl,69-80 bhp
+Maruti Suzuki,Maruti Dzire,Rs. 6.84 Lakh,4.7/5,5 Star Safety,24-33 kmpl,69-80 bhp
+Maruti Suzuki,Maruti Baleno,Rs. 6.70 Lakh,4.5/5,4 Star Safety,22-30 kmpl,76-88 bhp
+Maruti Suzuki,Maruti Grand Vitara,Rs. 11.42 Lakh,4.5/5,,19-27 kmpl,87-102 bhp
+Maruti Suzuki,Maruti Wagon R,Rs. 5.79 Lakh,4.5/5,1 Star Safety,23-34 kmpl,56-90 bhp
+Maruti Suzuki,Maruti Alto K10,Rs. 4.23 Lakh,4.6/5,2 Star Safety,24-33 kmpl,56-68 bhp
+Maruti Suzuki,Maruti Ertiga,Rs. 8.97 Lakh,4.6/5,3 Star Safety,20-26 kmpl,87-102 bhp
+Maruti Suzuki,Maruti XL6,Rs. 11.83 Lakh,4.4/5,3 Star Safety,20-26 kmpl,87-102 bhp
+Maruti Suzuki,Maruti Celerio,Rs. 5.64 Lakh,4/5,,24-35 kmpl,56-66 bhp
+Maruti Suzuki,Maruti Jimny,Rs. 12.76 Lakh,3.5/5,,16 kmpl,103 bhp
+Maruti Suzuki,Maruti Ignis,Rs. 5.85 Lakh,4.7/5,,20 kmpl,82 bhp
+Maruti Suzuki,Maruti S-Presso,Rs. 4.26 Lakh,4.4/5,,24-32 kmpl,56-66 bhp
+Maruti Suzuki,Maruti Ciaz,Rs. 9.42 Lakh,4.3/5,4 Star Safety,20-28 kmpl,89-103 bhp
+Maruti Suzuki,Maruti Eeco,Rs. 5.70 Lakh,4.6/5,,19-26 kmpl,71-81 bhp
+Maruti Suzuki,Maruti Invicto,Rs. 25.51 Lakh,4.6/5,,23 kmpl,150 bhp
+Maruti Suzuki,Maruti Wagon R Flex Fuel,Rs. 8.50 Lakh,4.5/5,,,
+Mahindra,Mahindra Scorpio N,Rs. 13.99 Lakh,4.7/5,5 Star Safety,,130-200 bhp
+Mahindra,Mahindra XUV 3XO,Rs. 7.99 Lakh,4.6/5,5 Star Safety,17-21 kmpl,110-129 bhp
+Mahindra,Mahindra XUV700,Rs. 14.49 Lakh,4.6/5,5 Star Safety,,153-197 bhp
+Mahindra,Mahindra BE 6,Rs. 18.90 Lakh,4.7/5,5 Star Safety,,
+Mahindra,Mahindra Thar Roxx,Rs. 12.99 Lakh,4.7/5,5 Star Safety,12-15 kmpl,150-174 bhp
+Mahindra,Mahindra Thar,Rs. 11.50 Lakh,4.7/5,4 Star Safety,,117-150 bhp
+Mahindra,Mahindra XEV 9e,Rs. 21.90 Lakh,4.7/5,5 Star Safety,,
+Mahindra,Mahindra Scorpio,Rs. 13.77 Lakh,4.8/5,,15 kmpl,130 bhp
+Mahindra,Mahindra Bolero,Rs. 9.81 Lakh,4.6/5,,16 kmpl,75 bhp
+Mahindra,Mahindra Bolero Neo,Rs. 9.97 Lakh,4.6/5,1 Star Safety,17 kmpl,100 bhp
+Mahindra,Mahindra Bolero Neo Plus,Rs. 11.41 Lakh,4.6/5,,,118 bhp
+Mahindra,Mahindra XUV400,Rs. 15.49 Lakh,3.9/5,5 Star Safety,,
+Mahindra,Mahindra Marazzo,Rs. 14.59 Lakh,4.3/5,4 Star Safety,17 kmpl,121 bhp
+Tata,Tata Harrier EV,Rs. 21.49 Lakh,4.8/5,,,
+Tata,Tata Altroz,Rs. 6.89 Lakh,4.7/5,,,72-89 bhp
+Tata,Tata Nexon,Rs. 8.00 Lakh,4.6/5,5 Star Safety,17-24 kmpl,99-118 bhp
+Tata,Tata Punch,Rs. 6.20 Lakh,4.4/5,5 Star Safety,18-26 kmpl,72-87 bhp
+Tata,Tata Harrier,Rs. 15.00 Lakh,4.7/5,5 Star Safety,14-16 kmpl,168 bhp
+Tata,Tata Tiago,Rs. 5.00 Lakh,4.4/5,4 Star Safety,19-28 kmpl,72-85 bhp
+Tata,Tata Curvv,Rs. 10.00 Lakh,4.6/5,5 Star Safety,,116-123 bhp
+Tata,Tata Safari,Rs. 15.50 Lakh,4.7/5,5 Star Safety,14-16 kmpl,168 bhp
+Tata,Tata Curvv EV,Rs. 17.49 Lakh,4.4/5,5 Star Safety,,
+Tata,Tata Nexon EV,Rs. 12.49 Lakh,4.4/5,5 Star Safety,,
+Tata,Tata Punch EV,Rs. 9.99 Lakh,4.4/5,5 Star Safety,,
+Tata,Tata Tiago EV,Rs. 7.99 Lakh,4.5/5,4 Star Safety,,
+Tata,Tata Tigor,Rs. 6.00 Lakh,4.5/5,4 Star Safety,19-28 kmpl,72-85 bhp
+Tata,Tata Tigor EV,Rs. 12.49 Lakh,3.6/5,,,
+Tata,Tata Tiago NRG,Rs. 7.20 Lakh,4.7/5,4 Star Safety,20-26 kmpl,72-85 bhp
+Tata,Tata Harrier EV Stealth,Rs. 27.05 Lakh,4.8/5,,,
+Hyundai,Hyundai Creta,Rs. 11.11 Lakh,4.6/5,,,113-158 bhp
+Hyundai,Hyundai Exter,Rs. 6.21 Lakh,4.6/5,,19-27 kmpl,68-82 bhp
+Hyundai,Hyundai Venue,Rs. 7.94 Lakh,4.6/5,,17-23 kmpl,82-118 bhp
+Hyundai,Hyundai Grand i10 Nios,Rs. 5.98 Lakh,4.5/5,2 Star Safety,,68-82 bhp
+Hyundai,Hyundai Verna,Rs. 11.07 Lakh,4.6/5,5 Star Safety,18-20 kmpl,113-158 bhp
+Hyundai,Hyundai i20,Rs. 7.04 Lakh,4.6/5,3 Star Safety,,82-87 bhp
+Hyundai,Hyundai Aura,Rs. 6.54 Lakh,4.6/5,2 Star Safety,,68-82 bhp
+Hyundai,Hyundai Alcazar,Rs. 14.99 Lakh,4.6/5,,,114-158 bhp
+Hyundai,Hyundai Tucson,Rs. 29.27 Lakh,3.9/5,5 Star Safety,,154-184 bhp
+Hyundai,Hyundai Creta Electric,Rs. 17.99 Lakh,4.7/5,,,
+Hyundai,Hyundai i20 N Line,Rs. 9.99 Lakh,4.6/5,,,118 bhp
+Hyundai,Hyundai Creta N Line,Rs. 16.93 Lakh,4.7/5,,,158 bhp
+Hyundai,Hyundai Ioniq 5,Rs. 46.05 Lakh,4.5/5,5 Star Safety,,
+Hyundai,Hyundai Venue N Line,Rs. 12.15 Lakh,4.8/5,,18 kmpl,118 bhp
+Toyota,Toyota Urban Cruiser Hyryder,Rs. 11.34 Lakh,4.4/5,,19-27 kmpl,87-102 bhp
+Toyota,Toyota Urban Cruiser Taisor,Rs. 7.74 Lakh,4.6/5,,19-28 kmpl,76-99 bhp
+Toyota,Toyota Glanza,Rs. 6.90 Lakh,4.6/5,,22-30 kmpl,76-89 bhp
+Toyota,Toyota Fortuner,Rs. 36.05 Lakh,4.5/5,5 Star Safety,10-14 kmpl,164-201 bhp
+Toyota,Toyota Innova Crysta,Rs. 19.99 Lakh,4.8/5,5 Star Safety,,148 bhp
+Toyota,Toyota Innova Hycross,Rs. 19.94 Lakh,4.6/5,,16-23 kmpl,173-184 bhp
+Toyota,Toyota Vellfire,Rs. 1.22 Crore,4.8/5,,19 kmpl,142 bhp
+Toyota,Toyota Hilux,Rs. 30.40 Lakh,3.8/5,3 Star Safety,,201 bhp
+Toyota,Toyota Camry,Rs. 48.50 Lakh,4.6/5,,25 kmpl,184 bhp
+Toyota,Toyota Fortuner Legender,Rs. 44.51 Lakh,4.8/5,5 Star Safety,14 kmpl,201 bhp
+Toyota,Toyota Rumion,Rs. 10.54 Lakh,4.8/5,,20-26 kmpl,87-102 bhp
+Toyota,Toyota Land Cruiser,Rs. 2.31 Crore,4.8/5,,,304 bhp
+Kia,Kia Seltos,Rs. 11.19 Lakh,4.7/5,3 Star Safety,17-20 kmpl,113-158 bhp
+Kia,Kia Sonet,Rs. 8.00 Lakh,4.4/5,,,82-118 bhp
+Kia,Kia Carens Clavis,Rs. 11.50 Lakh,4.6/5,,15-19 kmpl,113-158 bhp
+Kia,Kia Carens,Rs. 11.41 Lakh,4.5/5,3 Star Safety,,113-158 bhp
+Kia,Kia Syros,Rs. 9.50 Lakh,4.5/5,5 Star Safety,17-20 kmpl,114-118 bhp
+Kia,Kia Carnival,Rs. 63.91 Lakh,2.6/5,,14 kmpl,190 bhp
+Kia,Kia EV6,Rs. 65.97 Lakh,4.8/5,5 Star Safety,,
+Kia,Kia EV9,Rs. 1.30 Crore,4.7/5,,,
+BMW,BMW 3 Series LWB,Rs. 62.00 Lakh,4.9/5,,,188-255 bhp
+BMW,BMW 5 Series,Rs. 74.40 Lakh,4.9/5,5 Star Safety,15 kmpl,255 bhp
+BMW,BMW X5,Rs. 97.80 Lakh,5/5,,12 kmpl,282-375 bhp
+BMW,BMW M5,Rs. 1.99 Crore,4.9/5,,,717 bhp
+BMW,BMW X1,Rs. 50.80 Lakh,4.5/5,5 Star Safety,16-20 kmpl,134-148 bhp
+BMW,BMW X3,Rs. 75.80 Lakh,4.8/5,5 Star Safety,13-17 kmpl,188-194 bhp
+BMW,BMW M340i,Rs. 75.90 Lakh,4.8/5,5 Star Safety,13 kmpl,369 bhp
+BMW,BMW X7,Rs. 1.31 Crore,4.7/5,,11-14 kmpl,335-375 bhp
+BMW,BMW M4,Rs. 1.56 Crore,4.8/5,5 Star Safety,10 kmpl,523-543 bhp
+BMW,BMW 7 Series,Rs. 1.84 Crore,4.8/5,,12-16 kmpl,282-375 bhp
+BMW,BMW 2 Series Gran Coupe,Rs. 44.40 Lakh,4.6/5,5 Star Safety,14-18 kmpl,176-189 bhp
+BMW,BMW Z4,Rs. 92.90 Lakh,4.7/5,5 Star Safety,12 kmpl,335 bhp
+BMW,BMW M8,Rs. 2.44 Crore,4.8/5,,6-8 kmpl,591-617 bhp
+BMW,BMW M2,Rs. 1.03 Crore,4.7/5,,10 kmpl,453-473 bhp
+BMW,BMW iX1 LWB,Rs. 49.00 Lakh,4.7/5,,,
+BMW,BMW XM,Rs. 2.60 Crore,4.7/5,,61 kmpl,483-644 bhp
+BMW,BMW i4,Rs. 72.50 Lakh,4.6/5,,,
+BMW,BMW i7,Rs. 2.05 Crore,4.8/5,,,
+BMW,BMW iX1,Rs. 66.90 Lakh,4.3/5,,,
+BMW,BMW X4 M40i,Rs. 96.20 Lakh,4.6/5,5 Star Safety,10 kmpl,355 bhp
+BMW,BMW iX,Rs. 1.21 Crore,4.6/5,,,
+BMW,BMW i5,Rs. 1.20 Crore,4/5,,,601 bhp
+Skoda,Skoda Kylaq,Rs. 8.25 Lakh,4.8/5,5 Star Safety,19 kmpl,114 bhp
+Skoda,Skoda Slavia,Rs. 10.49 Lakh,4.7/5,5 Star Safety,18-20 kmpl,114-148 bhp
+Skoda,Skoda Kushaq,Rs. 10.99 Lakh,4.4/5,5 Star Safety,18-19 kmpl,114-148 bhp
+Skoda,Skoda Kodiaq,Rs. 46.89 Lakh,4.8/5,,14 kmpl,201 bhp
+Mercedes-Benz,Mercedes-Benz A-Class Limousine,Rs. 46.05 Lakh,4.7/5,5 Star Safety,17 kmpl,147-161 bhp
+Mercedes-Benz,Mercedes-Benz G-Class,Rs. 2.55 Crore,4.7/5,5 Star Safety,6 kmpl,326-577 bhp
+Mercedes-Benz,Mercedes-Benz GLC,Rs. 76.80 Lakh,4.7/5,5 Star Safety,,194-255 bhp
+Mercedes-Benz,Mercedes-Benz GLA,Rs. 50.80 Lakh,4.8/5,,,161-188 bhp
+Mercedes-Benz,Mercedes-Benz C-Class,Rs. 60.30 Lakh,4.7/5,,,197-255 bhp
+Mercedes-Benz,Mercedes-Benz E-Class,Rs. 79.50 Lakh,4.8/5,,,194-375 bhp
+Mercedes-Benz,Mercedes-Benz GLS,Rs. 1.34 Crore,4.3/5,,,362-375 bhp
+Mercedes-Benz,Mercedes-Benz Maybach S-Class,Rs. 2.77 Crore,4.7/5,,7-9 kmpl,496-603 bhp
+Mercedes-Benz,Mercedes-Benz GLE,Rs. 1.01 Crore,4.8/5,5 Star Safety,,265-375 bhp
+Mercedes-Benz,Mercedes-Benz S-Class,Rs. 1.86 Crore,4.5/5,,12-15 kmpl,282-375 bhp
+Mercedes-Benz,Mercedes-Benz Maybach GLS,Rs. 3.39 Crore,4.6/5,,,550 bhp
+Mercedes-Benz,Mercedes-Benz AMG GLC43 Coupe,Rs. 1.12 Crore,4.2/5,,,416 bhp
+Mercedes-Benz,Mercedes-Benz EQB,Rs. 72.20 Lakh,4.6/5,5 Star Safety,,
+Mercedes-Benz,Mercedes-Benz CLE cabriolet,Rs. 1.11 Crore,4.7/5,,,255 bhp
+Mercedes-Benz,Mercedes-Benz EQA,Rs. 67.20 Lakh,5/5,,,
+Mercedes-Benz,Mercedes-Benz EQS,Rs. 1.30 Crore,4.6/5,5 Star Safety,,
+Mercedes-Benz,Mercedes-Benz AMG G-Class,Rs. 3.75 Crore,5/5,,,577 bhp
+Mercedes-Benz,Mercedes-Benz G580 with EQ technology,Rs. 3.00 Crore,4.9/5,,,
+Mercedes-Benz,Mercedes-Benz Maybach SL 680,Rs. 4.35 Crore,,,,577 bhp
+Mercedes-Benz,Mercedes-Benz AMG GLA35,Rs. 63.50 Lakh,4.8/5,,13 kmpl,302 bhp
+Mercedes-Benz,Mercedes-Benz AMG C 43,Rs. 99.40 Lakh,4.8/5,5 Star Safety,,402 bhp
+Mercedes-Benz,Mercedes-Benz EQS SUV,Rs. 1.31 Crore,5/5,,,
+Mercedes-Benz,Mercedes-Benz AMG SL55 Roadster,Rs. 2.47 Crore,5/5,,,469 bhp
+Mercedes-Benz,Mercedes-Benz AMG A45 S,Rs. 94.80 Lakh,4.7/5,5 Star Safety,12 kmpl,421 bhp
+Mercedes-Benz,Mercedes-Benz AMG GT 63 S E Performance,Rs. 3.30 Crore,4.4/5,,,639-843 bhp
+Mercedes-Benz,Mercedes-Benz AMG GLE Coupe,Rs. 1.88 Crore,4.8/5,5 Star Safety,,429 bhp
+Mercedes-Benz,Mercedes-Benz AMG E53 Cabriolet,Rs. 1.30 Crore,4.8/5,5 Star Safety,,429 bhp
+Mercedes-Benz,Mercedes-Benz Maybach EQS SUV,Rs. 2.35 Crore,,5 Star Safety,,
+Mercedes-Benz,Mercedes-Benz EQE SUV,Rs. 1.41 Crore,5/5,5 Star Safety,,
+Mercedes-Benz,Mercedes-Benz AMG S 63 E Performance,Rs. 3.30 Crore,4.8/5,,,794 bhp
+Mercedes-Benz,Mercedes-Benz AMG GT 63 S 4MATIC Plus,Rs. 2.70 Crore,4.9/5,,8 kmpl,630 bhp
+Mercedes-Benz,Mercedes-Benz AMG C 63 S E Performance,Rs. 1.95 Crore,,,,469 bhp
+Mercedes-Benz,Mercedes-Benz AMG EQS,Rs. 2.45 Crore,5/5,5 Star Safety,,
+Honda,Honda Elevate,Rs. 11.95 Lakh,4.6/5,,15-16 kmpl,119 bhp
+Honda,Honda City,Rs. 12.42 Lakh,4.6/5,5 Star Safety,17-18 kmpl,119 bhp
+Honda,Honda Amaze,Rs. 8.14 Lakh,4.7/5,,18-19 kmpl,89 bhp
+Honda,Honda Amaze 2nd Gen,Rs. 7.66 Lakh,4.3/5,4 Star Safety,18-24 kmpl,79-98 bhp
+Honda,Honda City Hybrid eHEV,Rs. 20.89 Lakh,4.6/5,,27 kmpl,97 bhp
+MG,MG Windsor EV,Rs. 12.00 Lakh,4.6/5,,,
+MG,MG Hector,Rs. 14.25 Lakh,4.5/5,,,141-170 bhp
+MG,MG Comet EV,Rs. 6.17 Lakh,4.4/5,,,
+MG,MG ZS EV,Rs. 15.50 Lakh,4.1/5,5 Star Safety,,
+MG,MG Astor,Rs. 11.30 Lakh,4.2/5,,,108-138 bhp
+MG,MG Hector Plus,Rs. 17.50 Lakh,4.4/5,,16 kmpl,141-168 bhp
+MG,MG Gloster,Rs. 41.07 Lakh,4.2/5,5 Star Safety,12-13 kmpl,158-213 bhp
+Land Rover,Defender,Rs. 1.05 Crore,4.8/5,5 Star Safety,6-40 kmpl,296-626 bhp
+Land Rover,Range Rover Velar,Rs. 87.90 Lakh,4.8/5,5 Star Safety,,201-247 bhp
+Land Rover,Range Rover Sport,Rs. 1.45 Crore,4.8/5,5 Star Safety,11 kmpl,346-626 bhp
+Land Rover,Range Rover,Rs. 2.40 Crore,4.7/5,,8-13 kmpl,334-606 bhp
+Land Rover,Range Rover Evoque,Rs. 69.50 Lakh,4.7/5,5 Star Safety,10-14 kmpl,177-247 bhp
+Land Rover,Discovery Sport,Rs. 67.90 Lakh,4.2/5,5 Star Safety,10-13 kmpl,201-247 bhp
+Land Rover,Discovery,Rs. 1.34 Crore,4.7/5,5 Star Safety,8-13 kmpl,237-355 bhp
+Renault,Renault Triber,Rs. 6.15 Lakh,4.5/5,4 Star Safety,18-19 kmpl,71 bhp
+Renault,Renault Kwid,Rs. 4.70 Lakh,4.4/5,1 Star Safety,21-22 kmpl,67 bhp
+Renault,Renault Kiger,Rs. 6.15 Lakh,4.5/5,4 Star Safety,17-21 kmpl,71-99 bhp
+Citroen,Citroen C3,Rs. 6.23 Lakh,4.4/5,,18-19 kmpl,80-109 bhp
+Citroen,Citroen Basalt,Rs. 8.32 Lakh,4.6/5,4 Star Safety,18-19 kmpl,80-108 bhp
+Citroen,Citroen Aircross,Rs. 8.62 Lakh,4.6/5,,17-18 kmpl,80-109 bhp
+Citroen,Citroen eC3,Rs. 12.84 Lakh,4.4/5,,,
+Citroen,Citroen C5 Aircross,Rs. 39.99 Lakh,4.1/5,4 Star Safety,17 kmpl,174 bhp
+Jeep,Jeep Compass,Rs. 18.99 Lakh,4.2/5,5 Star Safety,13-17 kmpl,161-172 bhp
+Jeep,Jeep Meridian,Rs. 24.99 Lakh,4.4/5,,14-16 kmpl,168 bhp
+Jeep,Jeep Wrangler,Rs. 67.65 Lakh,4.8/5,,10-11 kmpl,268 bhp
+Jeep,Jeep Grand Cherokee,Rs. 67.50 Lakh,4.3/5,,,268 bhp
+Audi,Audi Q3,Rs. 44.99 Lakh,4.7/5,5 Star Safety,14 kmpl,188-192 bhp
+Audi,Audi A4,Rs. 46.99 Lakh,4.7/5,5 Star Safety,17 kmpl,188-201 bhp
+Audi,Audi A6,Rs. 65.72 Lakh,4.7/5,5 Star Safety,14 kmpl,241-261 bhp
+Audi,Audi Q7,Rs. 88.70 Lakh,4.5/5,5 Star Safety,,335 bhp
+Audi,Audi Q5,Rs. 66.99 Lakh,4.7/5,5 Star Safety,13 kmpl,261 bhp
+Audi,Audi S5 Sportback,Rs. 77.77 Lakh,4.7/5,5 Star Safety,10 kmpl,349 bhp
+Audi,Audi Q8,Rs. 1.17 Crore,4.7/5,5 Star Safety,,335 bhp
+Audi,Audi e-tron GT,Rs. 1.72 Crore,4.8/5,5 Star Safety,,
+Audi,Audi Q3 Sportback,Rs. 55.99 Lakh,4.7/5,5 Star Safety,,193 bhp
+Audi,Audi RS5,Rs. 1.13 Crore,5/5,5 Star Safety,10 kmpl,444 bhp
+Audi,Audi RS Q8 Performance,Rs. 2.49 Crore,4/5,5 Star Safety,,648 bhp
+Audi,Audi A8 L,Rs. 1.34 Crore,4.8/5,,,344 bhp
+Audi,Audi Q8 Sportback e-tron,Rs. 1.19 Crore,,5 Star Safety,,
+Audi,Audi Q8 e-tron,Rs. 1.15 Crore,5/5,5 Star Safety,,
+Audi,Audi e-tron Sportback,Rs. 1.20 Crore,4.7/5,5 Star Safety,,
+Audi,Audi e-tron,Rs. 1.02 Crore,4.7/5,5 Star Safety,,
+Nissan,Nissan Magnite,Rs. 6.14 Lakh,4.5/5,,17-19 kmpl,71-99 bhp
+Nissan,Nissan X-Trail,Rs. 49.92 Lakh,2.7/5,,13 kmpl,161 bhp
+BYD,BYD Atto 3,Rs. 24.99 Lakh,3.9/5,,,
+BYD,BYD Seal,Rs. 41.00 Lakh,4.7/5,5 Star Safety,,
+BYD,BYD Sealion 7,Rs. 48.90 Lakh,4.8/5,,,
+BYD,BYD eMax 7,Rs. 26.90 Lakh,4/5,,,
+Volvo,Volvo XC60,Rs. 70.75 Lakh,4.9/5,5 Star Safety,12 kmpl,250 bhp
+Volvo,Volvo EX40,Rs. 50.10 Lakh,4/5,5 Star Safety,,
+Volvo,Volvo XC90,Rs. 1.04 Crore,4.3/5,,12 kmpl,247 bhp
+Volvo,Volvo EC40,Rs. 59.00 Lakh,5/5,5 Star Safety,,408 bhp
+Porsche,Porsche 911,Rs. 1.99 Crore,4.7/5,,7-11 kmpl,380-641 bhp
+Porsche,Porsche Cayenne,Rs. 1.42 Crore,4.6/5,5 Star Safety,8-41 kmpl,335-550 bhp
+Porsche,Porsche Macan,Rs. 96.05 Lakh,4.7/5,5 Star Safety,10-11 kmpl,241-434 bhp
+Porsche,Porsche Panamera,Rs. 1.70 Crore,4.9/5,,,349-493 bhp
+Porsche,Porsche Taycan,Rs. 1.67 Crore,4.8/5,,,
+Porsche,Porsche Cayenne Coupe,Rs. 1.49 Crore,4.5/5,5 Star Safety,8-41 kmpl,335-631 bhp
+Porsche,Porsche Macan Turbo EV,Rs. 1.22 Crore,4.7/5,5 Star Safety,,
+Lexus,Lexus ES,Rs. 64.00 Lakh,4.6/5,5 Star Safety,22 kmpl,176-215 bhp
+Lexus,Lexus LX,Rs. 2.82 Crore,4.9/5,,6 kmpl,304 bhp
+Lexus,Lexus NX,Rs. 68.02 Lakh,4.4/5,5 Star Safety,17 kmpl,188 bhp
+Lexus,Lexus LM,Rs. 2.10 Crore,4.7/5,,,190 bhp
+Lexus,Lexus RX,Rs. 99.99 Lakh,5/5,5 Star Safety,,190-268 bhp
+Lamborghini,Lamborghini Urus SE,Rs. 4.57 Crore,4.8/5,,,789 bhp
+Lamborghini,Lamborghini Temerario,Rs. 6.00 Crore,4.4/5,,,800 bhp
+Lamborghini,Lamborghini Revuelto,Rs. 8.89 Crore,4.7/5,,,814 bhp
+Jaguar,Jaguar F-Pace,Rs. 72.90 Lakh,4.7/5,5 Star Safety,12-19 kmpl,201-543 bhp
+Rolls-Royce,Rolls-Royce Phantom,Rs. 9.50 Crore,4.8/5,,6-7 kmpl,453-563 bhp
+Rolls-Royce,Rolls-Royce Cullinan,Rs. 6.95 Crore,4.8/5,,6 kmpl,563 bhp
+Rolls-Royce,Rolls-Royce Spectre,Rs. 7.50 Crore,4.9/5,,,
+MINI,MINI Cooper,Rs. 44.90 Lakh,4.5/5,,,201 bhp
+MINI,MINI Countryman,Rs. 47.75 Lakh,4.7/5,5 Star Safety,14-19 kmpl,129-189 bhp
+MINI,MINI Cooper SE,Rs. 53.00 Lakh,4.4/5,,,
+MINI,MINI Countryman Electric,Rs. 54.90 Lakh,,5 Star Safety,,
+Ferrari,Ferrari Purosangue SUV,Rs. 10.50 Crore,4.6/5,,,715 bhp
+Ferrari,Ferrari 296 GTB,Rs. 5.40 Crore,5/5,,,645 bhp
+Ferrari,Ferrari Roma,Rs. 3.76 Crore,4.6/5,,8 kmpl,612 bhp
+Ferrari,Ferrari F8 Tributo,Rs. 4.02 Crore,4.8/5,,7 kmpl,711 bhp
+Ferrari,Ferrari Portofino,Rs. 3.50 Crore,4.8/5,,8 kmpl,591 bhp
+Ferrari,Ferrari 296 GTS,Rs. 6.24 Crore,4.6/5,,,663 bhp
+Force Motors,Force Motors Gurkha,Rs. 16.75 Lakh,4.5/5,,,138 bhp
+Force Motors,Force Motors Trax Cruiser,Rs. 13.83 Lakh,4.7/5,,,90 bhp
+Isuzu,Isuzu V-Cross,Rs. 21.20 Lakh,4.8/5,5 Star Safety,,161 bhp
+Isuzu,Isuzu MU-X,Rs. 35.00 Lakh,4.6/5,,,161 bhp
+Maserati,Maserati Ghibli,Rs. 1.20 Crore,4.7/5,5 Star Safety,8-16 kmpl,275-581 bhp
+Maserati,Maserati MC20,Rs. 3.65 Crore,4.9/5,,8 kmpl,621 bhp
+Maserati,Maserati Levante,Rs. 1.45 Crore,4.5/5,,9-10 kmpl,271-430 bhp
+Maserati,Maserati Quattroporte,Rs. 1.80 Crore,4.4/5,5 Star Safety,8-14 kmpl,275-572 bhp
+Maserati,Maserati Grecale,Rs. 1.31 Crore,,,,296-523 bhp
+Maserati,Maserati GranTurismo,Rs. 2.72 Crore,3/5,,,483-542 bhp
+Aston Martin,Aston Martin Vanquish,Rs. 8.85 Crore,4.5/5,,,835 bhp
+Aston Martin,Aston Martin DB11,Rs. 3.29 Crore,4.5/5,,8 kmpl,503-600 bhp
+Aston Martin,Aston Martin Vantage,Rs. 3.99 Crore,5/5,,,656 bhp
+Aston Martin,Aston Martin DBX,Rs. 4.63 Crore,4.7/5,,10 kmpl,542-697 bhp
+Aston Martin,Aston Martin DB12,Rs. 4.59 Crore,4.6/5,,,670 bhp
+Bentley,Bentley Bentayga,Rs. 4.10 Crore,4.9/5,,7 kmpl,542 bhp
+McLaren,McLaren 750S,Rs. 5.91 Crore,4.8/5,,,740 bhp
+McLaren,McLaren 720S,Rs. 4.65 Crore,4.8/5,,8 kmpl,711 bhp
+McLaren,McLaren GT,Rs. 3.72 Crore,4.5/5,,7 kmpl,612 bhp
+Lotus,Lotus Eletre,Rs. 2.55 Crore,4.5/5,,,
+Lotus,Lotus Emira,Rs. 3.22 Crore,5/5,,,360 bhp
+Lotus,Lotus Emeya,Rs. 2.34 Crore,4.8/5,,,
