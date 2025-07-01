@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+import os
+from dotenv import load_dotenv
 from sklearn.linear_model import LinearRegression
 st.set_page_config(page_title="Parth all Projects Showcase",layout="wide")
 st.title("📚 Project Showcase Dashboard")
@@ -94,6 +96,8 @@ with st.container():
 with st.expander("📄 View Cleaned Dataset"):
         st.dataframe(df)
 with st.container():
+    load_dotenv()
+
     st.subheader("2.🧠Parth's Generative AI Projects")
     x = st.selectbox(
     "🧠 How do you want AI to work for you?",
@@ -113,7 +117,7 @@ with st.container():
     )
 
     st.markdown(f"### ✨ You selected: `{x}`")
-    key = "AIzaSyBMS7xbDRW5Qlv5mEII-Gftj6wWo1MEo-E"
+    key = os.getenv("GEMINI_API_KEY")
     if "Tech Guru" in x:
         system_prompt = "🧑‍💻 Expert in tech, coding, AI, ML. Help with clear answers, debug, and guidance."
     elif "Love Guru" in x:
