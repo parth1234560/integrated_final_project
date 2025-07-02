@@ -133,7 +133,7 @@ with st.container():
     from openai import OpenAI
 
     gemini_model=OpenAI(
-        api_key="AIzaSyBMS7xbDRW5Qlv5mEII-Gftj6wWo1MEo-E",
+        api_key=key,
         base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
     )
     def techguru_llm(my_prompt):
