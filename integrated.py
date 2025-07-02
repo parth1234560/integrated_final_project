@@ -118,7 +118,7 @@ with st.container():
     )
 
     st.markdown(f"### ✨ You selected: `{x}`")
-    key = os.getenv("OPENAI_API_KEY")
+    key = os.environ("OPENAI_API_KEY")
     if "Tech Guru" in x:
         system_prompt = "🧑‍💻 Expert in tech, coding, AI, ML. Help with clear answers, debug, and guidance."
     elif "Love Guru" in x:
