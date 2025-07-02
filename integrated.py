@@ -174,7 +174,7 @@ with st.container():
     import paramiko
 
     host = st.text_input("🌍 SSH Host (e.g., 192.168.1.10)")
-    username1 = st.text_input("👤 SSH Username")
+    username = st.text_input("👤 SSH Username")
     password = st.text_input("🔑 SSH Password", type="password")
 
     # SSH command executor
@@ -182,7 +182,7 @@ with st.container():
         try:
             ssh = paramiko.SSHClient()
             ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-            ssh.connect(hostname=host, username=username1, password=password, timeout=5)
+            ssh.connect(hostname=host, username=username, password=password, timeout=5)
             stdin, stdout, stderr = ssh.exec_command(cmd)
             out = stdout.read().decode()
             err = stderr.read().decode()
