@@ -4,6 +4,7 @@ import numpy as np
 import os
 from dotenv import load_dotenv
 from sklearn.linear_model import LinearRegression
+load_dotenv()
 st.set_page_config(page_title="Parth all Projects Showcase",layout="wide")
 st.title("📚 Project Showcase Dashboard")
 
@@ -96,7 +97,7 @@ with st.container():
 with st.expander("📄 View Cleaned Dataset"):
         st.dataframe(df)
 with st.container():
-    load_dotenv()
+    
 
     st.subheader("2.🧠Parth's Generative AI Projects")
     x = st.selectbox(
