@@ -38,7 +38,7 @@ with st.container():
         # Load and clean data
     @st.cache_data
     def load_data():
-        df = pd.read_csv(r"C:\Users\PARTH\Documents\Summer internship\integrated project\car_data.csv")  # Adjust path as needed
+        df = pd.read_csv("car_data.csv")  # Adjust path as needed
         df['Price'] = df['Price'].str.replace("Rs. ", "").str.replace(" Lakh", "").str.replace(",", "")
         df['Price'] = pd.to_numeric(df['Price'], errors='coerce') * 100000
         df['Rating'] = df['Rating'].str.replace("/5", "").astype(float)
@@ -117,7 +117,7 @@ with st.container():
     )
 
     st.markdown(f"### ✨ You selected: `{x}`")
-    key = os.getenv("GEMINI_API_KEY")
+    key = os.getenv("OPENAI_API_KEY")
     if "Tech Guru" in x:
         system_prompt = "🧑‍💻 Expert in tech, coding, AI, ML. Help with clear answers, debug, and guidance."
     elif "Love Guru" in x:
